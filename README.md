@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 <h2>    Hi there! I'm Erhan Korkut... </h2>
-<img align="right" alt="GIF" src="https://media.giphy.com/media/kgUkCLMu3xhw1T6txv/giphy-downsized-large.gif" width="500" height="320" />
+<img align="right" alt="GIF" src="https://media1.giphy.com/media/kgUkCLMu3xhw1T6txv/giphy.gif?cid=ecf05e47f3grpw0b9ce0fjnonu23m8uygbbziy7gi1nu80hk&rid=giphy.gif&ct=g" width="500" height="320" />
 
 -  I’m  AWS  / Cloud & DevOps Engineer  
 -  I am happy to teach you what I know and eager to learn what you will offer
