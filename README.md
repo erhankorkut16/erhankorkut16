@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 <h2>    Hi there! I'm Erhan Korkut... </h2>
 
- <img align="right" alt="GIF" src="https://media.giphy.com/media/kgUkCLMu3xhw1T6txv/giphy-downsized-large.gif" width="500" height="320" />
+<img align="right" alt="GIF" src="https://media.giphy.com/media/n6mEMqAuYOQ8l8qcEE/giphy.gif" width="500" height="320" />
 
 
 
