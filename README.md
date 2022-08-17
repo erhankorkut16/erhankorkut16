@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 - 📫  How to reach me: 
 -  erhankorkut16@gmail.com
 
-## :woman: Social 
+## :man: Social 
 
 <a href="https://www.linkedin.com/in/erhankorkut16/" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-512.png" alt="" height="40" width="40" /></a>
 https://www.linkedin.com/in/erhankorkut16/
