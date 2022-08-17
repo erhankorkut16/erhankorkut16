@@ -17,10 +17,7 @@ Here are some ideas to get you started:
 
 
 <h2>    Hi there! I'm Erhan Korkut... </h2>
-
- <img align="right" alt="GIF" src="https://media.giphy.com/media/kgUkCLMu3xhw1T6txv/giphy-downsized-large.gif" width="500" height="320" />
-
-
+<img align="right" alt="GIF" src="https://media.giphy.com/media/kgUkCLMu3xhw1T6txv/giphy-downsized-large.gif" width="500" height="320" />
 
 -  I’m  AWS  / Cloud & DevOps Engineer | Python | SQL | HTML | CSS | Linux | Git | GitHub | Cloud(AWS) | Jenkins | Docker | Kubernetes | Jira | Slack | Ansible | Terraform | Scrum/Kanban | Creativity | Problem Solving | Teamwork 
 -  I am happy to teach you what I know and eager to learn what you will offer
