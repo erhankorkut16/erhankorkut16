@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 
 
-<h2>    Hi there! I'm Erhan Korkut... </h2>
+<h2> I'm Erhan Korkut... </h2>
 
 <img align="right" alt="GIF" src="https://liveimages.algoworks.com/new-algoworks/wp-content/uploads/2022/06/28161925/DevOps-min.gif" width="500" height="320" />
 
